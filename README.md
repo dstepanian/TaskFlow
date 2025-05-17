@@ -2,8 +2,6 @@
 
 A beautiful and feature-rich todo application built with Next.js, Tailwind CSS, and Framer Motion.
 
-![TaskFlow Screenshot](https://images.pexels.com/photos/4238486/pexels-photo-4238486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## Features
 
 - ✨ Beautiful, modern UI with smooth animations
